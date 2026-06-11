@@ -33,5 +33,5 @@ I am also a Fullstack Developer with a strong backend focus. My technical intere
 </div>
 
 ---
-<h3 align="left">More contact ?</h3>
-<a href="https://bento.me/himn" target="_blank" rel="noopener noreferrer">Click here</a>
+<h3 align="left">More contact?</h3>
+<a href="https://www.linkedin.com/in/cyndie-lauper/" target="_blank" rel="noopener noreferrer">Click here</a>
